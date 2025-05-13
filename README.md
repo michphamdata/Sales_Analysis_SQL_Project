@@ -18,6 +18,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 Query: [1_customer_segmentation](/Scripts/1_customer_segmentation.sql)
 
 **Visualization:**
+
 <img src="images/customer_segmentation_total_ltv_distribution.png" width="50%">
 
 **Key Findings:**
@@ -39,6 +40,7 @@ Query:
 [2_cohort_analysis.sql](/Scripts/2_cohortanalysis.sql)
 
 **Visualization:**
+
 <img src="images/customer_revenue.png" width="50%">
 
 **Key Findings:**
@@ -58,6 +60,7 @@ Query:
 Query:[3_retention_analysis.sql](/Scripts/3_rentention_analysis.sql)
 
 **Visualization:**
+
 <img src="images/active_vs_churn.png" width="50%">
 
 **Key Findings:**
@@ -88,7 +91,7 @@ Query:[3_retention_analysis.sql](/Scripts/3_rentention_analysis.sql)
 - Implement proactive intervention system for at-risk customers before they lapse
 
 
-##Technical Details
+## Technical Details
 - **Database:** PostgreSQL
 - **Analysis Tools:** PostgreSQL
 - **Visualization:** ChatGPT
